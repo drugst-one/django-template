@@ -30,6 +30,6 @@ Change port according to your needs
 
 `python manage.py runserver 0.0.0.0:8000`
 
-### 3. Finish development
+### 3. Continue development
 
 Read up more in the official django documentation on how to go from the development to the production server: https://docs.djangoproject.com/en/4.1/
