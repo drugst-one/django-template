@@ -33,3 +33,13 @@ Change port according to your needs
 ### 3. Continue development
 
 Read up more in the official django documentation on how to go from the development to the production server: https://docs.djangoproject.com/en/4.1/
+
+
+# Relevant for the workshop
+
+Checkpoints organized in different branches
+- [Checkpoint 1](https://github.com/drugst-one/django-template/tree/workshop_checkpoint1)
+- [Checkpoint 2](https://github.com/drugst-one/django-template/tree/workshop_checkpoint2)
+- [Checkpoint 3](https://github.com/drugst-one/django-template/tree/workshop_checkpoint3)
+- [Checkpoint 4](https://github.com/drugst-one/django-template/tree/workshop_checkpoint4)
+- [Checkpoint 5](https://github.com/drugst-one/django-template/tree/workshop_checkpoint5)
